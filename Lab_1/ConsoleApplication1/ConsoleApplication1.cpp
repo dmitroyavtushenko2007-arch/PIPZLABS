@@ -1,3 +1,4 @@
+// Лабораторна робота №1. Виконав: Явтушенко Д. О., гр. ІПЗ-25
 #include "pch.h"
 
 using namespace System;
